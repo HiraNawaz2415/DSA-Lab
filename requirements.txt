@@ -5,3 +5,5 @@ pandas>=2.1
 numpy>=1.26
 graphviz>=0.20
 fpdf>=1.7.2
+scipy>=1.10
+
